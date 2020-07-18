@@ -1,4 +1,7 @@
-### Hi there 👋
+### 区块链应用开发
+- 🔭熟悉: `Bitcoin`, `Ethereum`, `Vechain`
+- 🌱正在关注: `HyperLedger Fabric`, `FISCO BCOS`
+- 📫联系我：tianxiaosi.cn@gmail.com
 
 <!--
 **txsdev/txsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
