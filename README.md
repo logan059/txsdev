@@ -1,7 +1,9 @@
-<!-- ![bitcoin](./imgs/bitcoin.png)  ![eth](./imgs/ethereum.png) ![hyperledger](./imgs/hyperledger.png) -->
- <img src="https://github.com/txsdev/txsdev/blob/master/imgs/bitcoin.png" width = "80" height = "80" alt="bitcoin" align=center />
- <img src="https://github.com/txsdev/txsdev/blob/master/imgs/ethereum.png" width = "80" height = "80" alt="ethereum" align=center />
- <img src="https://github.com/txsdev/txsdev/blob/master/imgs/hyperledger.png" width = "372" height = "80" alt="ethereum" align=center />
+<p align="center">
+     <img src="https://github.com/txsdev/txsdev/blob/master/imgs/bitcoin.png" width = "80" height = "80"/>
+     <img src="https://github.com/txsdev/txsdev/blob/master/imgs/ethereum.png" width = "80" height = "80"/>
+     <img src="https://github.com/txsdev/txsdev/blob/master/imgs/hyperledger.png" width = "372" height = "80"/>
+</p>
+
 
 ### 区块链应用开发
 - 🔭熟悉: `Bitcoin`, `Ethereum`, `Vechain`
