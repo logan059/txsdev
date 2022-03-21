@@ -5,8 +5,8 @@
 
 
 ### 区块链
-- 🔭熟悉: `Bitcoin`, `Ethereum`, `Vechain`
-- 📫联系我：tianxiaosi.cn@gmail.com
+- 🔭: `Bitcoin`, `Ethereum`, `Vechain`
+- 📫：tianxiaosi.cn@gmail.com
 
 <!--
 **txsdev/txsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
