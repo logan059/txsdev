@@ -1,13 +1,11 @@
 <p align="center">
      <img src="https://github.com/txsdev/txsdev/blob/master/imgs/bitcoin.png" width = "80" height = "80"/>
      <img src="https://github.com/txsdev/txsdev/blob/master/imgs/ethereum.png" width = "80" height = "80"/>
-     <img src="https://github.com/txsdev/txsdev/blob/master/imgs/hyperledger.png" width = "372" height = "80"/>
 </p>
 
 
-### 区块链应用开发
+### 区块链
 - 🔭熟悉: `Bitcoin`, `Ethereum`, `Vechain`
-- 🌱正在关注: `HyperLedger Fabric`, `FISCO BCOS`
 - 📫联系我：tianxiaosi.cn@gmail.com
 
 <!--
